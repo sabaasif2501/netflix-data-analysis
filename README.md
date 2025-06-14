@@ -1,6 +1,6 @@
 # 📊 Netflix Data Analysis with Python & Pandas
 
-This project analyzes Netflix's title dataset to explore content types, release trends, and regional presence using Python and pandas.
+"Exploratory data analysis of Netflix content using Python and pandas. Focused on content types, top countries, release years, and popular genres."
 
 ## 🔧 Tools Used
 - Python
